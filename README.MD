@@ -3,4 +3,6 @@ Isto é uma alteração.
 
 
 
-* Alteração 05/03/2026.
+* Alteração 05/03/2026
+- Outra alteração 05/03/2026.
+
